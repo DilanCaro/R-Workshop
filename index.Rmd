@@ -1,9 +1,19 @@
---- 
+---
 title: "R Workshop Series"
 author: "Dilan Morales Caro"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
+documentclass: book
+github-repo: ''
+url: ''
+description: |
+  R Workshop series for John Jay Students
 ---
 
-# What is R?
+# What is R? {-}
 
+\begin{*align}
+
+\sum\_{n=o}\^k \\hat{A}\_n\* \\hat{B}
+
+\end{*align}
