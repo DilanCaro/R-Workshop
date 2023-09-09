@@ -1,3 +1,4 @@
 what-is-r
 introduction
 variables
+vectors
